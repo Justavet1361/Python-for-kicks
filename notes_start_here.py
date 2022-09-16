@@ -1,5 +1,5 @@
 # Python is a programming language developed in 1991 by Guido Van Rossum and whose namesake is Monty Python's Flying Circus
-    # Guido was the BDFL (Benevolent Dictator For Life) until 2018, now the language is maintained by the python software foundation
+    # Guido was the BDFL (Benevolent Dictator For Life) until 2018, now the language is maintained by the python software foundation (Python.org)
 
 #   Python is an interpreted, object-oriented (and scripted), high-level programming language with dynamic semantics. 
         # Interpreted - requires an interpreter (large program) installed on the using computer to convert the code to machine language
