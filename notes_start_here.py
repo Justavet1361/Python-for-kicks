@@ -57,7 +57,7 @@ NUMBER_5 = 5  # is an example of assigning a constant
 # Use comments sparingly and don't explain code whose meaning is apparent (explicit)
 #   
 #       Sections of code can be "commented out" temporarily so that they don't run when the 
-#           code is executed.  Shortcut:  highlight the code - in Windows alt + 3 to add alt + 4 to remove
+#           code is executed.  Shortcut:  highlight the code - in Windows ctrl + / to toggle hash tags
 # Comments should be written with a single space after the hashtag
  
 # Variables:  Spots in memory allocated to store some data.  Produced using the assignment statement.
